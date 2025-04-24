@@ -1,0 +1,56 @@
+secr.py
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# PyCharm project settings
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Log files
+*.log
+
+# SQLite database files
+*.sqlite3
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Your keys file (with tokens and secrets)
+keys.py
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Mypy type checker reports
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest cache
+.pytest_cache/
+
+# Profiling data
+*.prof
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
